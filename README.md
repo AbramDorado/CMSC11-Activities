@@ -13,3 +13,4 @@ Programs:
 9. Grade Statistics
 10. SQL queries
 
+*There is also a lec finals code
